@@ -1,7 +1,7 @@
-## Player keys ##
+## Клавиши игрока
 
-Key `Y` - open inventory
+Key `Y` - открыть инвентрать
 
-Key `N` - open craft menu
+Key `N` - открыть меню крафта
 
-Key `Alt` - Take loot/Open bag/Open dropped inventory
+Key `Alt` - Подобрать лут / Открыть ящик / Собрать лут игрока

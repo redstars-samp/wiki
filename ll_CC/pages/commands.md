@@ -1,9 +1,12 @@
-## Player commands
+## Команды игрока
 
-* /help
-* /admins
-* /report [text]
-* /pm [id/name] [message]
-* /craft
-* /inventory (/inv)
-* /ihide
+* /help - помощь
+* /admins - список администраторов онлайн
+* /report [text] - отправить репорт администрации
+* /pm [id/name] [message] - личные сообщения
+* /craft - меню крафта
+* /inventory (/inv) - инвентарь
+* /ihide - скрыть инвентарь
+
+
+> Также некоторые команды работают с помощью кнопок (см. разел Управление).
