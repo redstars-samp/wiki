@@ -3,4 +3,4 @@
 ## Новости
 
 *NPC Test video*
-[](https://www.youtube.com/watch?v=TfKQomoa7kM)
+[](http://www.youtube.com/watch?v=TfKQomoa7kM)
