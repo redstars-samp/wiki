@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# RedStars
 
 
 <!--
@@ -19,8 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Управление](pages/keys.md)
+[Команды](pages/commands.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
